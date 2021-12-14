@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Taller2_Consulta</string>
+
+    <string-array name="padecimiento">
+        <item>Dolor de cabeza</item>
+        <item>Dolor de panza</item>
+        <item>Inflamación</item>
+        <item>Infección</item>
+        <item>Alergia</item>
+    </string-array>
+</resources>
